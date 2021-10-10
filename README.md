@@ -1,7 +1,7 @@
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
-##I learnt this following thing from this project
+I learnt this following thing from this project
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
