@@ -1,5 +1,5 @@
 
-![Finished App](https://github.com/chitraarasu/Dice-Game-Flutter/blob/main/images/output.gif)
+![Finished App](https://github.com/chitraarasu/Dice-Game-Flutter/blob/main/images/output.gif width=250)
 
 I learnt this following thing from this project
 
